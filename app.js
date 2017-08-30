@@ -38,6 +38,6 @@ http.listen(config.port,function(err){
 		
 	}
 	else{
-			console.log('Connected to port 3000');
+			console.log('listening on', http.address().port);
 		}
 });

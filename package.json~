@@ -4,9 +4,8 @@
   "description": "its an user diary where a user can write their daily life",
   "main": "app.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
-    
-    
   },
   "author": "ashutosh",
   "license": "ISC",
